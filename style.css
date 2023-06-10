@@ -1,5 +1,5 @@
 .box{
-    display: block;
+    display: inline-block;
     border: 5px solid #f00;
     padding: 20px;
     margin: 5px;
