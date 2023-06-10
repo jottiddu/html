@@ -1,0 +1,6 @@
+.box{
+    display: block;
+    border: 5px solid #f00;
+    padding: 20px;
+    margin: 5px;
+}
